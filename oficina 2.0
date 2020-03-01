@@ -1,0 +1,6 @@
+echo "# um-guia-resistente" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeira confirmação" 
+git remote add origin https://github.com/Alexandre-sys/um-guia-resistente
+ Mestre de origem do .git git push -u
